@@ -4,7 +4,7 @@ spring:
 
     #DATASOURCE CONFIGURATION
   datasource:
-    url: jdbc:mysql://localhost:3306/zomato_db?createDatabaseIfNotExists=true
+    url: jdbc:mysql://localhost:3306/zomato_db?createDatabaseIfNotExist=true
     username: root
     password: root
   jpa:
