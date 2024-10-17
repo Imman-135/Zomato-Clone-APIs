@@ -1,8 +1,8 @@
 package com.example.zomato.mapper;
 
 import com.example.zomato.entity.Restaurant;
-import com.example.zomato.requestdto.RestaurantRequest;
-import com.example.zomato.responsedto.RestaurantResponse;
+import com.example.zomato.requestdtos.RestaurantRequest;
+import com.example.zomato.responsedtos.RestaurantResponse;
 import org.springframework.stereotype.Component;
 
 @Component
